@@ -21,3 +21,15 @@ ul {
     width: 100%;
     position: relative;
 }
+
+.profile-image{
+    background: url('./assets/manish.jpg') no-repeat;
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 50%;
+    background-position: center;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
