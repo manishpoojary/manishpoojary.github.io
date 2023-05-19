@@ -1,0 +1,19 @@
+- name: Vue
+  percentage: 95
+  color: success
+
+- name: Angular
+  percentage: 85
+  color:
+
+- name: TypeScript
+  percentage: 75
+  color:
+
+- name: JavaScript
+  percentage: 85
+  color: success
+
+- name: And so on… Does this even matter?
+  percentage: 95
+  color:
