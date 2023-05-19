@@ -1,6 +1,6 @@
-# The source of ebazhanov.github.io
+# The source of manishpoojary.github.io
 
-This repository contains the source code of [ebazhanov.github.io](https://ebazhanov.github.io/).
+This repository contains the source code of [manishpoojary.github.io](https://manishpoojary.github.io/).
 
 ## Development
 
@@ -11,7 +11,7 @@ This repository contains the source code of [ebazhanov.github.io](https://ebazha
 ## Deployment
 
 1. Push to master branch
-2. GitHub Pages at https://github.com/ebazhanov/ebazhanov.github.io will build and deploy the website
+2. GitHub Pages at https://github.com/manishpoojary/manishpoojary.github.io will build and deploy the website
 
 ## Credits
 
