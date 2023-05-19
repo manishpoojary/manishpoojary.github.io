@@ -6,4 +6,6 @@
   percentage: 45
   color: 
 
-
+- name: Gaming :p
+  percentage: 100
+  color: success
