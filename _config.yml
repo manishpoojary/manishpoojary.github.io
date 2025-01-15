@@ -1,8 +1,8 @@
 ### Site Settings ###
 title               : Manish Poojary
 description         : >-                               # >- means to ignore newlines until "url:"
-  Passionate Front End developer with love for 
-  Angular, Vue, JavaScript and TypeScript. 
+  Passionate Full Stack developer with love for 
+  Vue, Java, Angular and JavaScript. 
 #I enjoy clean, semantic, well-documented and testable code.
 url                 : ""                                   # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : ""                                   # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
