@@ -2,6 +2,10 @@
   percentage: 95
   color: success
 
+- name: Java
+  percentage: 75
+  color:
+
 - name: Angular
   percentage: 85
   color:
