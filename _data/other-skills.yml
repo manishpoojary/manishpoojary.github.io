@@ -1,4 +1,4 @@
-- name: CI
+- name: CI/CD
   percentage: 65
   color: success
 
