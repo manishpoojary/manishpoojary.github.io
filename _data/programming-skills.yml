@@ -8,7 +8,7 @@
 
 - name: Angular
   percentage: 85
-  color:
+  color: success
 
 - name: TypeScript
   percentage: 75
